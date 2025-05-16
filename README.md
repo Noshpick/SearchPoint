@@ -40,10 +40,10 @@ $ npm i
 ```
 
 ### Запуск Development сервера
-Чтобы запустить сервер для разработки, выполните команду:
+Чтобы запустить сервер для разработки, выполните команды:
 ```sh
-Сначала npx ts-node prisma/seed.ts
-После npm start watch
+npx ts-node prisma/seed.ts
+npm start watch
 ```
 
 ## FAQ
