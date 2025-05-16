@@ -49,7 +49,7 @@ npm start watch
 ## FAQ
 
 ### Изменения данных 
-В prisma/seed.ts находятся данные для поиска. Вы можете их заменить на свои, прописать ```sh $ npm start watch ``` и запускать проект.
+В prisma/seed.ts находятся данные для поиска. Вы можете их заменить на свои, прописать ``` $ npm start watch ``` и запускать проект.
 
 ### Запросы Postman
 В Postman обращаетесь GET запросом по http://localhost:5000/product/search
